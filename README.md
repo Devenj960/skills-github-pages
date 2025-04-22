@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Emmanuel Haynes Portfolio</title>
+  <title>Deven Johnson Portfolio</title>
   <style>
     body {
       background-color: #0d1117;
@@ -30,24 +30,13 @@
 </head>
 <body>
 
-  <h1>Emmanuel Haynes ✌️</h1>
-  <h3>Student at the University of Louisville</h3>
+  <h1>Deven Johnson</h1>
+  <h3>University of Louisville Student</h3>
   <p>
-    I am a student at the University of Louisville currently majoring in Information Security, and Risk and Compliance Intern at Humana Government Business. This portfolio showcases all of my current projects that I have written. I hope you enjoy my work!
+    I am a student at the University of Louisville majoring in Computer Information Systems on the Cybersecurity track. Here is a showcase of my work so far.
   </p>
   <p><a href="#">LinkedIn</a> | <a href="#">My Profile</a></p>
 
-  <div class="section">
-    <h2>Languages and Tools 🖥️</h2>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="VS">
-      <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-    </p>
-  </div>
 
   <div class="section">
     <h2>💻 Coding Projects:</h2>
