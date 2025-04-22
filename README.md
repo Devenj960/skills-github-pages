@@ -61,25 +61,19 @@
     </ul>
   </div>
 
-  <div class="section">
-    <h2>🎓 Certifications</h2>
-    <ul>
-      <li>Python Certified - <a href="https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessedt-say-i-passed-my-intro-to-python-activity-6946943367545692673-lswD">LinkedIn</a></li>
-      <li>HacktheBox Pentester Academy</li>
-    </ul>
-  </div>
+  
 
   <div class="section">
     <h2>Coding / Security Skills</h2>
     <p>
-      Python Certified, Excel certified, Java Programming, Linux, HTML Programming, Bash, Metasploit, SQL Programming, C# Programming, Tenable, Rapid7, Azure Cloud, Risk Management, Risk Analysis, Microsoft Office, SharePoint, DevOps
+      Excel certified, Access Certified, Kali Linux, HTML Programming, Bash, SQL Programming, C# Programming, Microsoft Office, 
     </p>
   </div>
 
   <div class="section">
     <h2>Soft Skills</h2>
     <p>
-      Networking · Interpersonal Skills · Communication · Problem Solving · Customer Service · Technical Support
+      Networking · Interpersonal Skills · Communication · Problem Solving · Customer Service 
     </p>
   </div>
 
